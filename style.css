@@ -1,0 +1,161 @@
+body{
+    font-family: "Poppins", sans-serif !important;
+}
+.button-row{
+  width: 40% !important;
+  margin-bottom: 0px !important;
+}
+.download-text{
+  font-size: 10px;
+}
+
+.btn1{
+  background-color: black !important;
+  color: white;
+  width: 100%;
+  border: 0px !important;
+  font-size: 14px;
+  border-radius: 5px;
+}
+.store-icon{
+  height: 1000px !important;
+  font-size: 25px !important;
+}
+.myInput{
+  border: 0px !important;
+  background-color: #ccc !important;
+  margin-bottom: 10px ;
+}
+.upload-btn{
+  background-color: #210324 !important;
+  width: 100%;
+  color: white !important;
+  border: 0px;
+  height: 40px;
+  border-radius: 7px;
+}
+.submit-btn{
+  background-color: orange !important;
+  width: 100%;
+  border: 0px;
+  height: 40px;
+  border-radius: 7px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.form-control{
+  border: 0px !important;
+  background-color: #ccc6 !important;
+  margin-bottom: 10px ;
+}
+.form-control:focus{
+  box-shadow: none !important;
+}
+.social-icon{
+  color: yellow !important;
+  font-size: 20px !important;
+}
+.btn-text{
+  margin-bottom: 0px !important;
+  font-size: 7px;
+}
+.logo-img{
+    width: 100px !important;
+    margin-left: 10px;
+}
+.location-img{
+    width: 100%;
+    height: 400px !important;
+}
+.location-detail{
+    background-color: #969696;
+    border-radius: 10px;
+}
+.sub-header{
+  margin-top: 140px !important;
+}
+.second-row{
+  justify-content: center !important;
+  margin: 50px 0px !important;
+}
+.image{
+  width: 70% !important;
+}
+.third-row{
+  justify-content: center !important;
+}
+.download{
+  margin-top: 340px !important;
+}
+.scan-text{
+  margin-left: 80px !important;
+  margin-top: 40px;
+}
+.qr-image{
+  width: 130px !important;
+}
+.footer{
+  background-color: black;
+  color: white;
+  padding: 20px 0px !important;
+  border-radius: 20px 20px 0px 0px;
+}
+@media only screen and (max-width: 767px) {
+  .download{
+    margin-top: 30px !important;
+  }
+  .location-detail{
+    background-color: #969696;
+    border-radius: 10px;
+    width: 95% !important;
+    margin-bottom: 10px;
+  }
+  .sub-header{
+    margin-top: 100px !important;
+  }
+  .Address{
+    margin-bottom: 80px !important;
+  }
+  .image{
+      width: 100% !important;
+  }
+  .scan-text{
+    margin-left: 0px !important;
+    margin-top: 35px !important;
+    font-size: 18px;
+  }
+  .third-row{
+    margin-bottom: 0px !important;
+  }
+  
+  .header{
+    text-align: center;
+    margin-top: 0px;
+  }
+  .web-info{
+    text-align: center;
+  }
+  .social-handle{
+    text-align: center;
+    margin-top: 20px;
+  }
+  .social-icon{
+  justify-content: center !important;
+  }
+  .btn1{
+  background-color: black !important;
+  color: white;
+  width: 100px;
+  border: 0px !important;
+  font-size: 14px;
+  padding: 0px !important;
+}
+
+  .span{
+   justify-content: center !important;
+   margin-left: 70px !important;
+   margin-top: 10px;
+   margin-bottom: 30px;
+}
+}
