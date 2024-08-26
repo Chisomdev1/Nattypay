@@ -10,7 +10,8 @@ body{
 }
 .btn-dark {
   font-size: 13px !important; /* Adjust the font size as needed */
-  height: 60px;
+  height: 70px;
+width: 100%;
 }
 
 .btn-dark .fa-apple {
